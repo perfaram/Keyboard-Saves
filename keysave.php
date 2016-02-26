@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: Keyboard Saves
-Plugin URI: http://dev.leapxl.com/wordpress
+Plugin URI: http://perceval.faramaz.com/dev/wp
 Description: Allows to save with CTRL-S in WordPress
 Author: Perceval FARAMAZ
 Version: 1.1
-Author URI: http://me.leapxl.com
+Author URI: http://perceval.faramaz.com
 */
 ?>
 <?php
